@@ -1,7 +1,10 @@
 # [PS2020] Tarefa 1 – Felipe Brito
  Primeira tarefa do treinamento de JavaScript do processo seletivo 2020 da Visão (Empresa Júnior da UFOP)
 
+
+
 Exercícios Propostos
+
 4 amigos entram em um bar e pedem 2 cervejas. Pedro e Ana são irmãos e fazem
 Engenharia da Computação na UFOP. Eles tem 20 e 17 anos respectivamente
 e estavam acompanhados de Paulo de 23 anos e Armando de 17 anos.
